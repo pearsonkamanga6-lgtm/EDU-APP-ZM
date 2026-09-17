@@ -1,0 +1,394 @@
+[
+  {
+    "id": "12l-001",
+    "name": "BANDA MASAUSO",
+    "sex": "M",
+    "scores": {
+      "English": 50,
+      "Mathematics": 67,
+      "Biology": 90,
+      "Science": 54,
+      "Geography": 62,
+      "Civic Education": 64,
+      "Commerce": 80,
+      "Accounts": 77
+    },
+    "examNo": "",
+    "parentPhone": "",
+    "parentWhatsapp": "",
+    "parentAltPhones": [],
+    "optionalSubjects": []
+  },
+  {
+    "id": "12l-002",
+    "name": "BILI MARTHA",
+    "sex": "F",
+    "scores": {
+      "English": 57,
+      "Mathematics": 73,
+      "Biology": 64,
+      "Science": 46,
+      "Geography": 70,
+      "Civic Education": 37,
+      "Commerce": 78,
+      "Accounts": 69
+    },
+    "examNo": "",
+    "parentPhone": "",
+    "parentWhatsapp": "",
+    "parentAltPhones": [],
+    "optionalSubjects": []
+  },
+  {
+    "id": "12l-003",
+    "name": "CHIRWA EMMANUEL",
+    "sex": "M",
+    "scores": {
+      "English": 58,
+      "Mathematics": 63,
+      "Biology": 70,
+      "Science": 33,
+      "Geography": 65,
+      "Civic Education": 66,
+      "Commerce": 88,
+      "Accounts": 81
+    },
+    "examNo": "",
+    "parentPhone": "",
+    "parentWhatsapp": "",
+    "parentAltPhones": [],
+    "optionalSubjects": []
+  },
+  {
+    "id": "12l-004",
+    "name": "CHIRWA GRACE",
+    "sex": "F",
+    "scores": {
+      "English": 48,
+      "Mathematics": 62,
+      "Biology": 77,
+      "Science": 43,
+      "Geography": 55,
+      "Civic Education": 45,
+      "Commerce": 79,
+      "Accounts": 76
+    },
+    "parentPhone": "0978293334",
+    "parentWhatsapp": "0978293334",
+    "examNo": "",
+    "parentAltPhones": [],
+    "optionalSubjects": []
+  },
+  {
+    "id": "12l-005",
+    "name": "CHIRWA HENRY",
+    "sex": "M",
+    "scores": {
+      "English": 54,
+      "Mathematics": 73,
+      "Biology": 66,
+      "Science": 50,
+      "Geography": 52,
+      "Civic Education": 53,
+      "Commerce": 72,
+      "Accounts": 68
+    },
+    "examNo": "",
+    "parentPhone": "",
+    "parentWhatsapp": "",
+    "parentAltPhones": [],
+    "optionalSubjects": []
+  },
+  {
+    "id": "12l-006",
+    "name": "KUMWENDA HOPE",
+    "sex": "F",
+    "scores": {
+      "English": 52,
+      "Mathematics": 53,
+      "Biology": 48,
+      "Science": 33,
+      "Geography": 61,
+      "Civic Education": 45,
+      "Commerce": 60,
+      "Accounts": 57
+    },
+    "parentPhone": "0977722319",
+    "parentWhatsapp": "0977722319",
+    "examNo": "",
+    "parentAltPhones": [],
+    "optionalSubjects": []
+  },
+  {
+    "id": "12l-007",
+    "name": "LISWANISO MAXWELL",
+    "sex": "M",
+    "scores": {
+      "English": 57,
+      "Mathematics": 30,
+      "Biology": 57,
+      "Science": 19,
+      "Geography": 46,
+      "Civic Education": 48,
+      "Commerce": 41,
+      "Accounts": 40
+    },
+    "parentPhone": "0979514587",
+    "parentWhatsapp": "0979514587",
+    "examNo": "",
+    "parentAltPhones": [],
+    "optionalSubjects": []
+  },
+  {
+    "id": "12l-008",
+    "name": "MITI SIBONGILE",
+    "sex": "F",
+    "scores": {
+      "English": 58,
+      "Mathematics": 39,
+      "Biology": 68,
+      "Science": 50,
+      "Geography": 55,
+      "Civic Education": 36,
+      "Commerce": 50,
+      "Accounts": 54
+    },
+    "parentPhone": "0976731154",
+    "parentWhatsapp": "0976731154",
+    "examNo": "",
+    "parentAltPhones": [],
+    "optionalSubjects": []
+  },
+  {
+    "id": "12l-009",
+    "name": "MBEWE REJOICE",
+    "sex": "F",
+    "scores": {
+      "English": 64,
+      "Mathematics": 41,
+      "Biology": 63,
+      "Science": 43,
+      "Geography": 41,
+      "Civic Education": 40,
+      "Commerce": 57,
+      "Accounts": 40
+    },
+    "parentPhone": "0976605664",
+    "parentWhatsapp": "0976605664",
+    "examNo": "",
+    "parentAltPhones": [],
+    "optionalSubjects": []
+  },
+  {
+    "id": "12l-010",
+    "name": "MKANDAWIRE PAUL",
+    "sex": "M",
+    "scores": {
+      "English": 55,
+      "Mathematics": 9,
+      "Biology": 53,
+      "Science": 26,
+      "Geography": 55,
+      "Civic Education": 63,
+      "Commerce": 75,
+      "Accounts": 48
+    },
+    "parentPhone": "0777489518",
+    "parentWhatsapp": "0973579232",
+    "parentAltPhones": [],
+    "examNo": "",
+    "optionalSubjects": []
+  },
+  {
+    "id": "12l-011",
+    "name": "MWANZA RACHAEL",
+    "sex": "F",
+    "scores": {
+      "English": 44,
+      "Mathematics": 42,
+      "Biology": 50,
+      "Science": 38,
+      "Geography": 50,
+      "Civic Education": 33,
+      "Commerce": 60,
+      "Accounts": 52
+    },
+    "parentPhone": "0969963888",
+    "parentWhatsapp": "0955122891",
+    "parentAltPhones": [
+      "0971530597"
+    ],
+    "examNo": "",
+    "optionalSubjects": []
+  },
+  {
+    "id": "12l-012",
+    "name": "MSETEKA MAGERET",
+    "sex": "F",
+    "scores": {
+      "English": 54,
+      "Mathematics": 34,
+      "Biology": 65,
+      "Science": 33,
+      "Geography": 40,
+      "Civic Education": 46,
+      "Commerce": 68,
+      "Accounts": 48
+    },
+    "examNo": "",
+    "parentPhone": "",
+    "parentWhatsapp": "",
+    "parentAltPhones": [],
+    "optionalSubjects": []
+  },
+  {
+    "id": "12l-013",
+    "name": "MTONGA PRECIOUS",
+    "sex": "F",
+    "scores": {
+      "English": 52,
+      "Mathematics": 57,
+      "Biology": 65,
+      "Science": 43,
+      "Geography": 51,
+      "Civic Education": 44,
+      "Commerce": 62,
+      "Accounts": 64
+    },
+    "parentPhone": "0772040524",
+    "parentWhatsapp": "0772040524",
+    "examNo": "",
+    "parentAltPhones": [],
+    "optionalSubjects": []
+  },
+  {
+    "id": "12l-014",
+    "name": "MUNKOMBWE ROBERT",
+    "sex": "M",
+    "scores": {
+      "English": 49,
+      "Mathematics": 26,
+      "Biology": 40,
+      "Science": 22,
+      "Geography": 46,
+      "Civic Education": 44,
+      "Commerce": 54,
+      "Accounts": 54
+    },
+    "parentPhone": "0773147891",
+    "parentWhatsapp": "0977702204",
+    "examNo": "",
+    "parentAltPhones": [],
+    "optionalSubjects": []
+  },
+  {
+    "id": "12l-015",
+    "name": "MVULA MAUREEN",
+    "sex": "F",
+    "scores": {
+      "English": 68,
+      "Mathematics": 67,
+      "Biology": 79,
+      "Science": 51,
+      "Geography": 71,
+      "Civic Education": 66,
+      "Commerce": 68,
+      "Accounts": 71
+    },
+    "examNo": "",
+    "parentPhone": "",
+    "parentWhatsapp": "",
+    "parentAltPhones": [],
+    "optionalSubjects": []
+  },
+  {
+    "id": "12l-016",
+    "name": "NGOMA THEMBISO",
+    "sex": "F",
+    "scores": {
+      "English": 58,
+      "Mathematics": 31,
+      "Biology": 47,
+      "Science": 29,
+      "Geography": 53,
+      "Civic Education": 42,
+      "Commerce": 60,
+      "Accounts": 53
+    },
+    "examNo": "",
+    "parentPhone": "",
+    "parentWhatsapp": "",
+    "parentAltPhones": [],
+    "optionalSubjects": []
+  },
+  {
+    "id": "12l-017",
+    "name": "NGULUBE SHEPERD",
+    "sex": "M",
+    "scores": {
+      "English": 47,
+      "Mathematics": 29,
+      "Biology": 67,
+      "Science": 31,
+      "Geography": 53,
+      "Civic Education": 38,
+      "Commerce": 48
+    },
+    "examNo": "",
+    "parentPhone": "",
+    "parentWhatsapp": "",
+    "parentAltPhones": [],
+    "optionalSubjects": []
+  },
+  {
+    "id": "12l-018",
+    "name": "PHIRI EDINA",
+    "sex": "F",
+    "scores": {
+      "English": 45,
+      "Mathematics": 21,
+      "Biology": 52,
+      "Science": 23,
+      "Geography": 33,
+      "Civic Education": 42,
+      "Commerce": 59,
+      "Accounts": 51
+    },
+    "examNo": "",
+    "parentPhone": "",
+    "parentWhatsapp": "",
+    "parentAltPhones": [],
+    "optionalSubjects": []
+  },
+  {
+    "id": "12l-019",
+    "name": "PHIRI MULUMBI",
+    "sex": "M",
+    "scores": {},
+    "examNo": "",
+    "parentPhone": "",
+    "parentWhatsapp": "",
+    "parentAltPhones": [],
+    "optionalSubjects": []
+  },
+  {
+    "id": "12l-020",
+    "name": "ZIMBA MARY",
+    "sex": "F",
+    "scores": {
+      "English": 55,
+      "Mathematics": 55,
+      "Biology": 61,
+      "Science": 40,
+      "Geography": 57,
+      "Civic Education": 45,
+      "Commerce": 48,
+      "Accounts": 66
+    },
+    "parentPhone": "0975436115",
+    "parentWhatsapp": "0970333474",
+    "examNo": "",
+    "parentAltPhones": [],
+    "optionalSubjects": []
+  }
+]

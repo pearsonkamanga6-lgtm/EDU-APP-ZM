@@ -1,0 +1,12 @@
+{
+  "name": "edusend-school-results-v1",
+  "version": "1.0.0",
+  "private": true,
+  "description": "EduSend School Results Management System - role based V1",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
